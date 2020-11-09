@@ -5,9 +5,9 @@ First homework assignment for George Washington University Full Stack Web Develo
 
 The major goal of this project is to refactor the code for a website to meet web accessibility standards. 
 
-![published page](https://balokdecoy.github.io/Horiseon-Code-Refactor/)
+Deployed Github Page: https://balokdecoy.github.io/Horiseon-Code-Refactor
 
-![repo page](https://github.com/balokdecoy/Horiseon-Code-Refactor)
+Repo page: https://github.com/balokdecoy/Horiseon-Code-Refactor)
 
 ![code refactor complete](./assets\screenshots\Horiseon-Code-Refactor-Complete.png)
 
