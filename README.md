@@ -3,7 +3,13 @@ Horiseon website code refactor project
 
 First homework assignment for George Washington University Full Stack Web Development Bootcamp.
 
-The major goal of this project is to refactor the code for a website such that it meets web accessibility standards. It exists on Github under user balokdecoy's repo titled "Horiseon Code Refactor"' at the following URL: [insert code URL]. The finished project exists at the following URL: [insert site URL]
+The major goal of this project is to refactor the code for a website to meet web accessibility standards. 
+
+![published page](https://balokdecoy.github.io/Horiseon-Code-Refactor/)
+
+![repo page](https://github.com/balokdecoy/Horiseon-Code-Refactor)
+
+![code refactor complete](./assets\screenshots\Horiseon-Code-Refactor-Complete.png)
 
 Primary code goals: 
 1. Clean up the HTML and CSS code for consistency and clarity.
