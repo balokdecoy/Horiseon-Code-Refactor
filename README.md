@@ -9,6 +9,7 @@ Deployed Github Page: https://balokdecoy.github.io/Horiseon-Code-Refactor
 
 Repo page: https://github.com/balokdecoy/Horiseon-Code-Refactor
 
+Screenshot of refactored page:
 ![code refactor complete](./assets/screenshots/Horiseon-Code-Refactor-Complete.png)
 
 Primary code goals: 
