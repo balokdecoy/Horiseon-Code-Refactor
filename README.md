@@ -7,9 +7,9 @@ The major goal of this project is to refactor the code for a website to meet web
 
 Deployed Github Page: https://balokdecoy.github.io/Horiseon-Code-Refactor
 
-Repo page: https://github.com/balokdecoy/Horiseon-Code-Refactor)
+Repo page: https://github.com/balokdecoy/Horiseon-Code-Refactor
 
-![code refactor complete](./assets\screenshots\Horiseon-Code-Refactor-Complete.png)
+![code refactor complete](./assets/screenshots/Horiseon-Code-Refactor-Complete.png)
 
 Primary code goals: 
 1. Clean up the HTML and CSS code for consistency and clarity.
